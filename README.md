@@ -1,67 +1,36 @@
-# Getting Started with Create React App
+# 🚀Upscale AI
+⚠️Due to high traffic the live website is not working...
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# You can simply download the source code and run on your own machine using your own API
 
-## Available Scripts
+## Screenshots
+![image](https://github.com/dipayansarkar47/upscale-ai/assets/77672753/657944a7-aa25-496c-9d28-eeb7c61b7c50)
 
-In the project directory, you can run:
+## 👎Before 
+<img src="https://github.com/dipayansarkar47/upscale-ai/assets/77672753/1381a124-b15e-49b8-8c85-51d40527a834" alt="react" width="280" />
 
-### `npm start`
+## 👍After
+<img src="https://github.com/dipayansarkar47/upscale-ai/assets/77672753/bc845810-eb3b-4022-946e-6b46d7e85db7" alt="react" width="280" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### `AI Image Upscaler API`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Get your [Upscaler API](https://rapidapi.com/firdavscoder1/api/ai-picture-upscaler) keys.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Then replace the api key in this code snippet below 👇
+![image](https://github.com/dipayansarkar47/upscale-ai/assets/77672753/e7288d6c-ad71-45b6-8e3f-3e8382b065de)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Repace it with your API keys that you got via RapidAPI 👇
+![image](https://github.com/dipayansarkar47/upscale-ai/assets/77672753/9b230e35-7f41-4d63-89b4-275ad55dd0d9)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## It's Done ✅
+### `run npm start`
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
+### Happy Coding 🧑‍💻
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
